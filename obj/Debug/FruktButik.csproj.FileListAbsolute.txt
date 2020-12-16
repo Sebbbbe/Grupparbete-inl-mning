@@ -1,0 +1,7 @@
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\bin\Debug\FruktButik.exe.config
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\bin\Debug\FruktButik.exe
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\bin\Debug\FruktButik.pdb
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\obj\Debug\FruktButik.csprojAssemblyReference.cache
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\obj\Debug\FruktButik.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\obj\Debug\FruktButik.exe
+C:\Users\sebas\Downloads\FruitStore-main (8)\FruitStore-main\FruktButik\obj\Debug\FruktButik.pdb
